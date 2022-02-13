@@ -1,4 +1,4 @@
-# Project2_COVID-19_Forecasting
+# Project2: COVID-19 Forecasting
 
 The goal of this project is to forecast future spread of coronavirus based on current Covid-19 situations so that governments can better prepare for future COVID outbreak.
 I specifically select data from China and the U.S. for comparison. The forecasting models utilized include Naive, Drift, Holt, ARIMA, Regression and etc.  
