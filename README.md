@@ -10,16 +10,16 @@ I specifically select data from China and the U.S. for comparison. The forecasti
 
 1.2 Data Cleaning and transformation:
 
-● All data are in csv format
-● Cleaning process:
+● All data are in csv format <br/>
+● Cleaning process: <br/>
 a. The data cleaning process is done through excel.
 
 
 1.4 Visualization & Models
 
-Tableau: 
+Tableau: <br/>
 ● Connect excel csv file to Tableau and conduct explanatory analysis
 
-R:
-● Split data into training and testing
+R: <br/>
+● Split data into training and testing<br/>
 ● Run forecasting models and compare model accuracies
