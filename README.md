@@ -15,7 +15,7 @@ I specifically select data from China and the U.S. for comparison. The forecasti
 a. The data cleaning process is done through excel.
 
 
-1.4 Visualization & Models
+1.3 Visualization & Models
 
 Tableau: <br/>
 ● Connect excel csv file to Tableau and conduct explanatory analysis
